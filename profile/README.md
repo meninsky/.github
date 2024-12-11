@@ -21,7 +21,6 @@ Example:
 - `client-acme-us-west`
 - `client-globex-eu-central`
 
----
 
 ## SparkFlow
 
@@ -33,7 +32,6 @@ SparkFlow is a repository designed for executing Spark ETLs. It serves as a foun
 
 For more details, visit the [SparkFlow README](https://github.com/your-org/sparkflow#readme).
 
----
 
 ## Shared-Infra
 
@@ -45,7 +43,6 @@ The `shared-infra` repository contains shared resources that are used across mul
 
 For additional information, see the [Shared-Infra README](https://github.com/your-org/shared-infra#readme).
 
----
 
 ## Running spark jobs
 
