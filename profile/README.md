@@ -52,8 +52,9 @@ For additional information, see the [Shared-Infra README](https://github.com/you
 When running spark jobs using `spark-submit`, ensure to include the necessary Python dependency file 
 located at `s3://sparkflow-devel/sparkflow.zip` by specifying it with the `--py-files` option. For example:
 
+```bash
 spark-submit --py-files s3://sparkflow-devel/sparkflow.zip x-to-y.py [...]
-
+```
 
 ---
 
